@@ -25,9 +25,9 @@ Here are some ideas to get you started:
     <a href="mailto:jyh11224@donga.ac.kr">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-        <p><strong>call</strong></p>
-        010 - 2362- 3174
-        <p><strong>email</strong></p>
+        <strong>call</strong>
+        <strong>010 - 2362 - 3174</strong><br>
+        <strong>email</strong>
         8945jm@naver.com
     </a>
 </div><br>
