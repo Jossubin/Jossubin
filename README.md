@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20subbin's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Cho subin </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨Cho subin✨ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Dong‐A University(DAU)</li><li> B.S. iN M4ML LAB </div> 
     </div>
     <div style="text-align: left;">
@@ -21,8 +21,10 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Jossubin&bg_color=60,ffffff,d9cafe&title_color=706d80&text_color=706d80"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍🏻 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Jossubin&bg_color=60,ffffff,d9cafe&title_color=706d80&text_color=706d80"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossubin&layout=compact&bg_color=60,ffffff,d9cafe&title_color=706d80&text_color=706d80"
            /> </div> 
+    <div style="text-align: lefg;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> <div style="text-align: left;">
     </div>
     
