@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 Github stats 📊
-![Josubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyh11224&count_private=true&show_icons=true&theme=radical)
+![Josubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jossubin&count_private=true&show_icons=true&theme=radical)
 <p>
 
 ## 🥇 Baekjoon solved rank 🥇
