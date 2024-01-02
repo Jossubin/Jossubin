@@ -29,7 +29,6 @@ Here are some ideas to get you started:
         <strong>010 - 2362 - 3174</strong><br>
         <strong>email</strong>
         <strong>8945jm@naver.com</strong><br>
-        
     </a>
 </div><br>
 
