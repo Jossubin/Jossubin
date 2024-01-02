@@ -25,6 +25,8 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jossubin&layout=compact&bg_color=60,ffffff,d9cafe&title_color=706d80&text_color=706d80"
            /> </div> 
     <div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>> - [2023.08] 2rd Award, Dong‐A University DevDay</li>
+            <li> - [2023.12] 2rd Award, Dong‐A University DevDay </li>
     </div>
     
