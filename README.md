@@ -28,5 +28,10 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - [2023.08] 2rd Award, Dong‐A University DevDay</li>
             <li> - [2023.12] 2rd Award, Dong‐A University DevDay </li>
+    </div><br>
+
+<div style="text-align: lefg;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 paper </h2> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - [2024.04] first author, Journal of Korea Multimedia Society, 'MaxProfit Time Series Clustering Technique Based on Error Rate Evaluation to Improve Reward of Distributed Energy Virtual Power Plant' </li>
     </div>
     
