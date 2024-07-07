@@ -32,8 +32,8 @@
 
 <div style="text-align: lefg;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project </h2> 
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - 산학협력 R&D Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발 </li> <br>
-        <li> - 3D Face Reconstruction project </li> <br>
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - 산학협력 R&D Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발 </li>
+        <li> - 3D Face Reconstruction project </li>
         <li> - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발</li>
 
 <div style="text-align: lefg;">
