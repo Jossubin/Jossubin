@@ -31,7 +31,13 @@
     </div><br>
 
 <div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 paper </h2> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project </h2> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - 산학협력 R&D Nvidia Jetson을 이용한 얼굴 특성 분석 및 아바타 제작 기술 개발 </li> <br>
+        <li> - 3D Face Reconstruction project </li> <br>
+        <li> - AI Closed Caption (AICC) 딥러닝 기반 자막 추출 기술 개발</li>
+
+<div style="text-align: lefg;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Paper </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> - [2024.04] first author, Journal of Korea Multimedia Society, 'MaxProfit Time Series Clustering Technique Based on Error Rate Evaluation to Improve Reward of Distributed Energy Virtual Power Plant' </li>
             <li> - [2024.06] third author, KIBME, 'Generate 3D face model with textures from a single 2D image' </li>
     </div>
