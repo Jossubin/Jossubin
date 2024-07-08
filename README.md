@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20subbin's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨Cho subin✨ </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Cho subin </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Dong‐A University(DAU)</li><li> B.S. iN M4ML LAB </div> 
     </div>
     <div style="text-align: left;">
