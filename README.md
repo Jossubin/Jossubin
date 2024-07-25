@@ -43,4 +43,3 @@
             <li> - [2024.06] third author, KIBME, 'Generate 3D face model with textures from a single 2D image' </li>
             <li> - [IMID 2024] 3DSA (3D Human Model Generation from 2D Single Image) </li>
     </div>
-    
