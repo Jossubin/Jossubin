@@ -21,24 +21,3 @@
           <br/>
           </div>
     </div>
-    <div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> 
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-            <li> - </li>
-            <li> - </li>
-    </div><br>
-
-<div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Project </h2> 
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <li> - </li>
-        <li> - </li>
-        <li> - </li>
-
-<div style="text-align: lefg;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Paper </h2> 
-        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-            <li> - </li>
-            <li> - </li>
-            <li> - </li>
-    </div>
